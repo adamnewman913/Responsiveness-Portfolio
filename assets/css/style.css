@@ -115,3 +115,22 @@ font-size: 30px}
 right:650px;
 margin: auto;
   }
+
+   
+
+  @media screen and (max-width: 980px){}
+
+  @media screen and (max-width: 768px){}
+
+  @media screen and (max-width: 640px){
+    header {position: static}
+    .adam {height: 100px;}
+    ul {text-align: center}
+    h2 {text-align: center}
+  
+  
+  
+
+  
+  
+  
