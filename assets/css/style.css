@@ -1,0 +1,117 @@
+header h2 {font-family: Georgia, 'Times New Roman', Times, serif;
+background-color: #ffffff;
+font-size: 100px
+}
+span {background-color: #4aaaa5;
+color: white;
+font-size: 50px;
+border-style: solid;
+border-width: 1px;
+border-color: #cccccc;}
+ul {float: right;
+     list-style: outside none none;
+    margin: 0px;
+    padding: 0px}
+li {display: inline;}
+
+footer {position: sticky;
+    height: 50px;
+    font-size: 20px;
+    color: #cccccc;
+    text-align: center; 
+    background-color: #666666;
+    border-top: 20px;
+    border-color: #4aaaa5}
+
+p {font-family: Arial, Helvetica, sans-serif;
+position: relative}
+body {background-image: url("../images/beige-tiles.png")}
+figcaption {background-color: #4aaaa5; 
+display: inline-block;
+font-size: 30px}
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #f1f1f1;
+    padding: 20px;
+    font-family: Arial;
+  }
+  
+  /* Center website */
+  .main {
+    max-width: 1000px;
+    margin: auto;
+  }
+  
+  h1 {
+    font-size: 50px;
+    word-break: break-all;
+  }
+  
+  .row {
+    margin: 8px -16px;
+  }
+  
+  /* Add padding BETWEEN each column */
+  .row,
+  .row > .column {
+    padding: 8px;
+  }
+  
+  /* Create four equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 25%;
+  }
+  
+  /* Clear floats after rows */ 
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Content */
+  .content {
+    background-color: white;
+    padding: 10px;
+  }
+
+  
+
+  
+  /* Center website */
+  .main {
+    max-width: 1000px;
+    margin: auto;
+  }
+
+  .row {
+    margin: 8px -16px;
+  }
+  
+  /* Add padding BETWEEN each column (if you want) */
+  .row,
+  .row > .column {
+    padding: 8px;
+  }
+  
+  /* Create four equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 25%;
+  }
+  
+  /* Clear floats after rows */ 
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .centering-items {
+right:650px;
+margin: auto;
+  }
